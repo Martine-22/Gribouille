@@ -1,2 +1,2 @@
-# Tikhtov
-Tikhtov o lo Tikhtov
+# Gribouille
+A la mémoire de Gribouille
